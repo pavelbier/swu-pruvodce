@@ -118,7 +118,7 @@ Pro účely živého hraní slouží stránka [karabast.net](https://karabast.ne
 Na stránce [swubase.com](http://swubase.com) najdete aktuální výsledky posledních větších turnajů a můžete se zde proklikat až k obsahu jednotlivých balíčků, se kterými hráči nastoupili.
 
 ### YOUTUBE
-Krom oficiálního kanálu [youtube.com/@FantasyFlightGames1](https://www.youtube.com/@FantasyFlightGames1) najdete na youtube jak hráče, kteří prezentují aktuální novinky ([youtube.com/@Thorrk\_THT](https://www.youtube.com/@Thorrk_THT), [youtube.com/@iamwooooo](https://www.youtube.com/@iamwooooo) ), tak i ty, kteří zveřejňují záznamy z hraní specifických balíčků na Karabastu ([youtube.com/@MoGTCG](https://www.youtube.com/@MoGTCG), [youtube.com/@VeiledShotSWU](https://www.youtube.com/@VeiledShotSWU), [httpsyoutube.com/@SWUDAD](https://www.youtube.com/@SWUDAD), [https://www.youtube.com/@GonkGangTCG](https://www.youtube.com/@GonkGangTCG) a další).
+Krom oficiálního kanálu [youtube.com/@FantasyFlightGames1](https://www.youtube.com/@FantasyFlightGames1) najdete na youtube jak hráče, kteří prezentují aktuální novinky ([youtube.com/@Thorrk\_THT](https://www.youtube.com/@Thorrk_THT), [youtube.com/@iamwooooo](https://www.youtube.com/@iamwooooo) ), tak i ty, kteří zveřejňují záznamy z hraní specifických balíčků na Karabastu ([youtube.com/@MoGTCG](https://www.youtube.com/@MoGTCG), [youtube.com/@VeiledShotSWU](https://www.youtube.com/@VeiledShotSWU), [youtube.com/@SWUDAD](https://www.youtube.com/@SWUDAD), [www.youtube.com/@GonkGangTCG](https://www.youtube.com/@GonkGangTCG) a další).
 Pořadatelé turnajů pak často jejich průběh streamují a komentují a tento autentický záznam hraní může sloužit jako velmi dobrá učební pomůcka pro vlastní rozvoj.
 
 
