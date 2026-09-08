@@ -27,7 +27,7 @@ Hodně specifický formát je **Trilogy**, který vyžaduje vytvořit tři balí
 
 Druhý zásadní směr je **Limited**, který se dá rozdělit na dva podformáty a to **Sealed** a **Draft**. V těchto formátech si hráči nenosí vlastní decky, ale staví si o něco menší balíček (30 karet) a to jen z karet, které na místě obdrží. Následně se pak utkávají v již tradičně probíhajících duelech.
 
-Co se týče specifického naprosto odlišného formátu **Twin Suns**, tak zde je možné používat všechny karty všech edic, ale s omezením, že každá z karet se v balíčku nachází jen jednou. Jde o spíše o zábavný formát, kde hrají tři až čtyři hráči proti sobě a hra v té fázi, kdy je zničena některému hráči základna.
+Co se týče specifického naprosto odlišného formátu **Twin Suns**, tak zde je možné používat všechny karty všech edic, ale s omezením, že každá z karet se v balíčku o osmdesáti kartách nachází jen jednou. Jde o spíše o zábavný formát, kde hrají tři až čtyři hráči proti sobě a hra v té fázi, kdy je zničena některému hráči základna.
 Na jaře 2026 vyšly čtyři předpřipravené Twin Suns decky, které obsahují speciální karty (označené TS26), které je ale možné legálně využívat jen v Twin Suns decích a v Eternalu.
 
 ## Co potřebuji k hraní aneb jak začít?
