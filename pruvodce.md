@@ -18,6 +18,8 @@ Hra vyšla v březnu roku 2024 první edicí Spark of Rebellion (SOR), po které
 V březnu 2025 pak vyšla edice Jump To Lightspeed (JTL), v létě Legends of the Force (LOF) a na podzim Secrets of Power (SEC), což jsou edice, jež mají na kartách uvedené písmeno A a tím se vyznačují do jaké rotace patří.
 V březnu 2026 vyšla edice Lawless Time (LAW), jejíž karty už mají na sobě označení písmenem B. Do této rotace patří i v červenci vydaná edice Ashes of the Empire (ASH).
 
+![Přehled edic SWU a jejich rozdělení do rotací A a B](images/rotace.jpg)
+
 ## Formáty hraní
 
 Hra dvou hráčů se dá rozdělit do dvou specifických směrů a to **Constructed** a **Limited**. V Constructed hrají hráči se svými připravenými balíčky, kdežto v Limited si ten balíček teprve na akci vytvářejí.
