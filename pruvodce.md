@@ -25,17 +25,17 @@ V březnu 2026 vyšla edice Lawless Time (LAW), jejíž karty už mají na sobě
 Hra dvou hráčů se dá rozdělit do dvou specifických směrů a to **Constructed** a **Limited**. V Constructed hrají hráči se svými připravenými balíčky, kdežto v Limited si ten balíček teprve na akci vytvářejí.
 Co se týče Constructed, tak zde obecně platí hlavně jedno pravidlo a to, že balíček o padesáti kartách může využívat maximálně tři stejné karty. Za hlavní se dá považovat formát **Premier**, ve kterém se smí používat jen karty z posledních dvou aktuálních rotací. V této době je tak možné používat karty z rotace A a B. První tři edice (ještě bez označení) nejsou v tomto formátu povolené.
 K tomu, aby šlo starší karty i nadále používat, je určen formát **Eternal**, kde je možné hrát karty všech edicí dohromady, ale již i ten má své omezení, protože některé karty v něm již není možné kompetitivně používat (kuriozně jde o karty z edice JTL hratelné stále v Premier formátu).
-Hodně specifický formát je **Trilogy**, který vyžaduje vytvořit tři balíky s třemi různými leadery s omezením maximálně tři stejných karet na všechny tři decky. Následně na začátku hráči jeden deck soupeře předem vyřadí a pak postupně musí vystřídat ten deck, jenž v předchozím kole vyhrál. Tudíž, aby celkově zvítězil, musí vyhrát s oběma nevyřazenými decky.
+Hodně specifický formát je **Trilogy**, který vyžaduje vytvořit tři balíky s třemi různými leadery s omezením maximálně tři stejných karet na všechny tři decky. Na začátku si hráči navzájem jeden deck vyřadí a pak postupně musí vystřídat ten deck, jenž v předchozím kole vyhrál. Tudíž, aby celkově zvítězil, musí vyhrát s oběma decky.
 
-Druhý zásadní směr je **Limited**, který se dá rozdělit na dva podformáty a to **Sealed** a **Draft**. V těchto formátech si hráči nenosí vlastní decky, ale staví si o něco menší balíček (30 karet) a to jen z karet, které na místě obdrží. Následně se pak utkávají v již tradičně probíhajících duelech.
+Druhý zásadní směr je **Limited**, který se dá rozdělit na dva podformáty a to **Sealed** a **Draft**. V těchto formátech si hráči nenosí vlastní decky, ale staví si o něco menší balíček (30 karet) a to jen z karet, které na místě obdrží. Následně se pak utkávají v již tradičně probíhajících duelech. V stručnosti v sealed formátu hráč obdrží šest balíčků (od Homeworlds osm), které otevře a ze kterých pak následně staví svůj herní balíček. U draft formátu hráči postupně posílají balíčky a odebírají z nich postupně po jedné kartě. 
 
 Co se týče specifického naprosto odlišného formátu **Twin Suns**, tak zde je možné používat všechny karty všech edic, ale s omezením, že každá z karet se v balíčku o osmdesáti kartách nachází jen jednou. Jde o spíše o zábavný formát, kde hrají tři až čtyři hráči proti sobě a hra v té fázi, kdy je zničena některému hráči základna.
-Na jaře 2026 vyšly čtyři předpřipravené Twin Suns decky, které obsahují speciální karty (označené TS26), které je ale možné legálně využívat jen v Twin Suns decích a v Eternalu.
+Na jaře 2026 vyšly čtyři předpřipravené Twin Suns decky, které obsahují speciální karty (označené TS26), které je ale možné legálně využívat jen v Twin Suns formátu a v Eternalu.
 
 ## Co potřebuji k hraní aneb jak začít?
 
-Nejjednodušší start je v podobě zakoupení jednoho ze **spotlight** decků. První tři edice měly ještě vlastní **starter** sety, které obsahovaly dva leadery s předpřipravenými balíčky, ale od edice JTL vychází s každou edicí dva samostatné spotlight decky, které obsahují vždy jednoho leadera s předpřipraveným balíčkem a jeden booster s náhodnými kartami dané edice.
-Na podzim roku 2025 vyšla v krabicové verzi hra **Intro Battle: Hoth**, jenž podobně jako původní starter sety, obsahuje dva leadery a předpřipravené balíčky. Ten je vyloženě vytvořený a určený k naučení hry. Nicméně karty v něm patří do rotace a je tak možné je využívat i v constructed formátech.
+Nejjednodušší start je v dnešní době v podobě zakoupení jednoho ze **spotlight** decků. První tři edice měly ještě vlastní **starter** sety, které obsahovaly dva leadery s předpřipravenými balíčky, ale od edice JTL začaly vycházet s každou edicí dva samostatné spotlight decky, které obsahují vždy jednoho leadera s předpřipraveným balíčkem a jeden booster s náhodnými kartami dané edice.
+Na podzim roku 2025 ještě vyšla v krabicové verzi hra **Intro Battle: Hoth**, jenž podobně jako původní starter sety, obsahuje dva leadery a předpřipravené balíčky. Ten je vyloženě vytvořený a určený k naučení hry. Nicméně karty v něm patří do rotace a je tak možné je využívat i v constructed formátech.
 
 ## Co dál?
 
@@ -53,6 +53,9 @@ Od edice JTL začali vydávat Carbonite balíčky, jež stály pětkrát více n
 Některé Prestige karty byly navíc unikátně číslované, což výrazně zvyšovalo jejich cenu.
 Od edice LAW došlo k výraznějším změnám. Přestaly se dělat foil verze karet, díky čemuž se zavedla garance minimálně jedné HS verze karty a garance jedné HS foil karty v každém balíčku. Navíc se v každém osmnáctém balíčku mohla objevit i nefoilová prestige karta.
 U Carbonite se pak snížila pravděpodobnost, že bude obsahovat showcase kartu (téměř třikrát) a zvedly se počty HS foil a HS karet.
+
+### Cardmarket
+Pokud si chcete dokoupit specifickou chybějící kartu, pak v Evropě je obecně nejpoužívanější službou k nákupu [Cardmarket](https://www.cardmarket.com/en/StarWarsUnlimited). Jen musíte počítat, že ne všechny karty seženete od českých prodejců, takže nákup některých karet se může notně prodražit placením dražšího poštovného ze zahraniční. Obecně se doporučuje si nechat dražší zásilky posílat trackovanou službou.
 
 ### Prerelease
 
@@ -72,31 +75,31 @@ V rámci setu má obchod uspořádat showdown turnaj pro své hráče i hosty, k
 
 #### Planetary
 
-Taktéž v rámci setu se u nás většinou pořádají dva či tři planetary turnaje, kam se sjíždějí i hráči z okolních zemí (formát si volí pořadatel) přičemž jde již o hodně kompetitivní událost, kde se dodržují pravidla mnohem přísněji než například u showdownu. Zde již musí být k dispozici oficiální judge. Od Top8 si úspěšní hráči znovu rozdělí specifickou kartu ze setu, první čtyřka obdrží speciální žeton iniciativy a vítěz obdrží speciální podložku s nápisem Champion. Navíc získá dostatek bodů, aby se mohl oficiálně přihlásit na galaktický šampionát.
+Taktéž v rámci setu se u nás většinou pořádají dva či tři planetary turnaje, kam se sjíždějí i hráči z okolních zemí (formát si volí pořadatel) přičemž jde již o hodně kompetitivní událost, kde se dodržují pravidla mnohem přísněji než například u showdownu. Zde již musí být k dispozici oficiální judge. 
+Od Top8 si úspěšní hráči znovu rozdělí specifickou kartu ze setu, první čtyřka obdrží speciální žeton iniciativy a vítěz obdrží podložku s nápisem Champion. Navíc získá dostatek bodů, aby se mohl oficiálně přihlásit na galaktický šampionát.
 
 #### Sector a Regional
 
-V rámci setu se pak celosvětově pořádají tři středně velikostně zaměřené **Sector** kvalifikace a jedna velká **Regional** kvalifikace. Obdobně jako u Planetary i tady dostávají hráči speciální karty dle umístění, vítěz speciální podložku, ale všichni účastníci obdrželi specifické ceněné karty či předměty (podložky) jen za samotnou (placenou) účast a případně pak i další za postup turnajem.
-Během turnaje se navíc pořádají boční eventy, za jejichž hraní získávají hráči možnost získat další speciální odměny. Například jen zde se dá získat speciální balíčky obsahující specifické ceněné varianty karet ze setu, obdobu weekly.
+V rámci setu se pak celosvětově pořádají tři středně velikostně zaměřené **Sector** kvalifikace a jedna velká **Regional** kvalifikace. Obdobně jako u Planetary i tady dostávají hráči karty dle umístění, vítěz Champion podložku, ale všichni účastníci obdrží specifické ceněné karty či předměty (podložky) jen za samotnou (placenou) účast a případně pak i další za postup turnajem.
+Během turnaje se navíc pořádají boční eventy, za jejichž hraní získávají hráči možnost získat další odměny. Například jen zde se dá získat (black, silver) balíčky obsahující ceněné varianty karet ze setu, obdobu weekly.
 V červnu 2026 došlo k pozměnění udělování bodů za umístění, ale došlo i k omezení, že **Regional** kvalifikace se bude nově pořádat jen jednou do roka a to v Evropě.
 
 #### Galactic
 
-Jednou za rok, zpravidla na konci července, se pak v Las Vegas pořádal galaktický šampionát, což zůstává nejvyšším vrcholem kompetitivní SWU scény, do jehož hlavního turnaje se musí hráči kvalifikovat získanými body z planetary, sector a regional kvalifikací. Šestnáct hráčů s největším počtem získaných bodů z těchto kvalifikací má cestu a ubytování hrazené pořadatelem.
-Od července 2026 je navíc stanoven strop bodů, které je možné získat jen z planetary kvalifikací na 500.
-I v rámci tohoto turnaje se pořádají menší boční eventy pro všechny hráče s hodnotnými cenami.
+Jednou za rok, zpravidla na konci července, se pak v Las Vegas pořádá galaktický šampionát, což zůstává nejvyšším vrcholem kompetitivní SWU scény, do jehož hlavního turnaje se musí hráči kvalifikovat získanými body z planetary, sector a regional kvalifikací. Šestnáct hráčů s největším počtem získaných bodů z těchto kvalifikací má cestu a ubytování hrazené pořadatelem. 
+Od července 2026 je stanoven strop bodů, které je možné získat jen z planetary kvalifikací na 500.
+I zde se v rámci turnaje pořádají menší boční eventy pro všechny hráče s možností získat hodnotné ceny.
 
-Pořádal se zatím dvakrát, v červenci 2025 v něm zvítězil polský hráč s přezdívkou Beton, v roce 2026 mladý Kanaďan s přezdívkou JamesUgly.
+Galaktický šampionát se pořádal zatím dvakrát, v červenci 2025 v něm zvítězil polský hráč s přezdívkou Beton, v roce 2026 mladý Kanaďan s přezdívkou JamesUgly.
 
 ## Průběh turnaje
 
-Nejen na těch velkých turnajích, ale často i na weekly, se pro vedení turnaje využívá online web [melee.gg](http://melee.gg). V aktulní době se testuje jeho mobilní aplikace, takže není nutné chodit přímo na web a je možné zadávat informace skrze tuto mobilní aplikaci.
-Očekává se, že si v melee hráč vytvoří profil a pak se přihlásí přímo na danou událost, které se chce účastnit. Její link může obdržet či si může danou událost na webu dohledat.
-Následně pak po kliknutí na odkaz “ovládání hráčů” a spuštění turnaje vidí s kým soupeří a u kterého čísla stolu (což je zásadní především u těch velkých turnajů). 
+Nejen na těch velkých turnajích, ale často i na weekly, se pro vedení turnaje využívá online web [melee.gg](http://melee.gg), i když se v aktuální době již testuje mobilní aplikace, aby nebylo nutné chodit přímo na web.
+Očekává se, že si v melee hráč vytvoří profil a následně se přihlásí na danou událost, které se chce účastnit. Její link může obdržet či si ji může na webu dohledat.
+Zde pak po kliknutí na odkaz “ovládání hráčů” a spuštění turnaje vidí s kým soupeří a u kterého čísla stolu hraje (což je zásadní především u těch velkých turnajů). 
 Zde i pak potvrzuje, jak kola proběhla.
 Už od úrovně Planetary turnajů formátu Premier či Eternal je nutné do melee před turnajem zadat obsah balíčku se kterým turnaj hodlá hráč hrát. Je zde přísně vyžadováno, aby deck neobsahoval žádné jiné karty.
 Na Sector, Regional a Galactic je nutné mít vytvořený i [My asmodee účet](https://account.asmodee.net/en/signin) a při registraci pak hráč zadává jak svou přezdívku z melee tak i ID hráče z asmodee účtu.
-
 
 ## Internet
 
@@ -127,12 +130,7 @@ Krom oficiálního kanálu [youtube.com/@FantasyFlightGames1](https://www.youtub
 Pořadatelé turnajů pak často jejich průběh streamují a komentují a tento autentický záznam hraní může sloužit jako velmi dobrá učební pomůcka pro vlastní rozvoj.
 
 
-
-## SLOVNÍČEK
-
-melee - web, kde se organizují události / turnaje
-discord - komunikační nástroj
-
 ## CO SE NEVEŠLO
 
 - [https://hri.gg/](https://hri.gg/)
+- [https://www.swuniversity.net/puzzles](https://www.swuniversity.net/puzzles)
