@@ -12,21 +12,21 @@ Přehled heren v ČR, kde se pravidelně hrává Star Wars: Unlimited (weekly pl
 
 | Den | Město | Herna | Adresa | Začátek |
 |---|---|---|---|---|
-| Pondělí | Ostrava | [Black Lotus](https://melee.gg/Hub/Organization/6019) | Puchmajerova 208/1 | 16:00 |
-| Pondělí | Praha | [Černý rytíř](https://melee.gg/Hub/Organization/8461) | Za Poříčskou bránou 21 | 17:30 |
-| <del>Pondělí</del> | <del>Praha</del> | <del>[Professor Onyx](https://melee.gg/Hub/Organization/13393)</del> | <del>Arbesovo nám. 781/14</del> | <del>17:30</del> |
-| Pondělí | Pardubice | [Tolarie](https://melee.gg/Hub/Organization/9352) | Zámecká 23 | 18:30 |
-| Úterý | Slaný | [Dragon World Store](https://melee.gg/Hub/Organization/8965) | Třebízského 163/5 | 17:00 |
-| Úterý | Brno | [Xzone](https://melee.gg/Hub/Organization/8419) | Palackého třída 177/50 | 18:00 |
-| Úterý | Brno | [Najáda](https://melee.gg/Hub/Organization/8336) | Biskupská 283/1 | 18:00 |
-| Středa | Pardubice | [Wombat Games](https://melee.gg/Hub/Organization/7973) | Sladkovského 505 | 17:30 |
-| Středa | Hradec Králové | [Untap](https://melee.gg/Hub/Organization/8547) | Pospíšilova 281/18 | 17:30 |
-| Středa | České Budějovice | [DEKL](https://melee.gg/Hub/Organization/9354) | Jeronýmova 1796/35 | 17:30 |
-| Středa | Praha | [Xzone HUB, OC Lužiny](https://melee.gg/Hub/Organization/8419) | Archeologická 2256/1 | 18:00 |
-| Čtvrtek | Kolín | [KODEK](https://melee.gg/Hub/Organization/17269) | Havelcova 123 | 17:00 |
-| Čtvrtek | Mladá Boleslav | [TeCeGe](https://melee.gg/Hub/Organization/13121) | Čechova 357/8 | 17:00 |
-| Čtvrtek | Brno | [Hero Store](https://melee.gg/Hub/Organization/11389) | Křenová 131/35 | 18:00 |
-| Pátek | Praha | [Najáda](https://melee.gg/Hub/Organization/8336) | Ondříčkova 2166/14 | 17:30 |
+| Pondělí | Ostrava | [Black Lotus](https://melee.gg/Hub/Organization/6019) | [Puchmajerova 208/1](https://mapy.cz/zakladni?q=Puchmajerova+208%2F1,+702+00+Ostrava) | 16:00 |
+| Pondělí | Praha | [Černý rytíř](https://melee.gg/Hub/Organization/8461) | [Za Poříčskou bránou 21](https://mapy.cz/zakladni?q=Za+Poříčskou+bránou+21,+186+00+Praha) | 17:30 |
+| <del>Pondělí</del> | <del>Praha</del> | <del>[Professor Onyx](https://melee.gg/Hub/Organization/13393)</del> | <del>[Arbesovo nám. 781/14](https://mapy.cz/zakladni?q=Arbesovo+náměstí+781%2F14,+Praha)</del> | <del>17:30</del> |
+| Pondělí | Pardubice | [Tolarie](https://melee.gg/Hub/Organization/9352) | [Zámecká 23](https://mapy.cz/zakladni?q=Zámecká+23,+530+02+Pardubice) | 18:30 |
+| Úterý | Slaný | [Dragon World Store](https://melee.gg/Hub/Organization/8965) | [Třebízského 163/5](https://mapy.cz/zakladni?q=Třebízského+163%2F5,+Slaný) | 17:00 |
+| Úterý | Brno | [Xzone](https://melee.gg/Hub/Organization/8419) | [Palackého třída 177/50](https://mapy.cz/zakladni?q=Palackého+třída+177%2F50,+612+00+Brno) | 18:00 |
+| Úterý | Brno | [Najáda](https://melee.gg/Hub/Organization/8336) | [Biskupská 283/1](https://mapy.cz/zakladni?q=Biskupská+283%2F1,+602+00+Brno) | 18:00 |
+| Středa | Pardubice | [Wombat Games](https://melee.gg/Hub/Organization/7973) | [Sladkovského 505](https://mapy.cz/zakladni?q=Sladkovského+505,+530+02+Pardubice) | 17:30 |
+| Středa | Hradec Králové | [Untap](https://melee.gg/Hub/Organization/8547) | [Pospíšilova 281/18](https://mapy.cz/zakladni?q=Pospíšilova+281%2F18,+500+03+Hradec+Králové) | 17:30 |
+| Středa | České Budějovice | [DEKL](https://melee.gg/Hub/Organization/9354) | [Jeronýmova 1796/35](https://mapy.cz/zakladni?q=Jeronýmova+1796%2F35,+České+Budějovice) | 17:30 |
+| Středa | Praha | [Xzone HUB, OC Lužiny](https://melee.gg/Hub/Organization/8419) | [Archeologická 2256/1](https://mapy.cz/zakladni?q=Archeologická+2256%2F1,+155+00+Praha) | 18:00 |
+| Čtvrtek | Kolín | [KODEK](https://melee.gg/Hub/Organization/17269) | [Havelcova 123](https://mapy.cz/zakladni?q=Havelcova+123,+280+02+Kolín) | 17:00 |
+| Čtvrtek | Mladá Boleslav | [TeCeGe](https://melee.gg/Hub/Organization/13121) | [Čechova 357/8](https://mapy.cz/zakladni?q=Čechova+357%2F8,+293+01+Mladá+Boleslav) | 17:00 |
+| Čtvrtek | Brno | [Hero Store](https://melee.gg/Hub/Organization/11389) | [Křenová 131/35](https://mapy.cz/zakladni?q=Křenová+131%2F35,+602+00+Brno) | 18:00 |
+| Pátek | Praha | [Najáda](https://melee.gg/Hub/Organization/8336) | [Ondříčkova 2166/14](https://mapy.cz/zakladni?q=Ondříčkova+2166%2F14,+130+00+Praha) | 17:30 |
 
 ## Podle měst
 
