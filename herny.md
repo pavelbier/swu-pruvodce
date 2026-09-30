@@ -69,7 +69,6 @@ Přehled heren v ČR, kde se pravidelně hrává Star Wars: Unlimited (weekly pl
 - [Najáda – turnaje Brno](https://www.najada.games/en/game-club/brno/tournaments)
 - [Najáda – turnaje Praha](https://www.najada.games/en/game-club/prague/tournaments)
 - [Wombat Games – SWU Pardubice](https://www.wombatgames.cz/karetni-hry-pardubice/star-wars-unlimited-pardubice)
-- [Tolarie – melee.gg](https://melee.gg/Hub/Location/8127)
 - [KODEK – melee.gg](https://melee.gg/Hub/Organization/17269)
 - [Black Lotus – Facebook skupina](https://www.facebook.com/groups/769631581921123)
 - [DEKL](https://deklcb.cz/)
