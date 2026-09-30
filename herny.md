@@ -10,31 +10,31 @@ Přehled heren v ČR, kde se pravidelně hrává Star Wars: Unlimited (weekly pl
 
 ## Přehled podle dne
 
-| Den | Město | Herna | Začátek |
-|---|---|---|---|
-| Pondělí | Ostrava | [Black Lotus](https://melee.gg/Hub/Organization/6019) | 16:00 |
-| Pondělí | Praha | [Černý rytíř](https://melee.gg/Hub/Organization/8461) | 17:30 |
-| <del>Pondělí</del> | <del>Praha</del> | <del>[Professor Onyx](https://melee.gg/Hub/Organization/13393)</del> | <del>17:30</del> |
-| Pondělí | Pardubice | [Tolarie](https://melee.gg/Hub/Organization/9352) | 18:30 |
-| Úterý | Slaný | [Dragon World Store](https://melee.gg/Hub/Organization/8965) | 17:00 |
-| Úterý | Brno | [Xzone](https://melee.gg/Hub/Organization/8419) | 18:00 |
-| Úterý | Brno | [Najáda](https://melee.gg/Hub/Organization/8336) | 18:00 |
-| Středa | Hradec Králové | [Untap](https://melee.gg/Hub/Organization/8547) | 17:30 |
-| Středa | České Budějovice | [DEKL](https://melee.gg/Hub/Organization/9354) | 17:30 |
-| Středa | Praha | [Xzone HUB, OC Lužiny](https://melee.gg/Hub/Organization/8419) | 18:00 |
-| Čtvrtek | Kolín | [KODEK](https://melee.gg/Hub/Organization/17269) | 17:00 |
-| Čtvrtek | Mladá Boleslav | [TeCeGe](https://melee.gg/Hub/Organization/13121) | 17:00 |
-| Čtvrtek | Brno | [Hero Store](https://melee.gg/Hub/Organization/11389) | 18:00 |
-| Každý druhý pátek | Pardubice | [Wombat Games](https://melee.gg/Hub/Organization/7973) | 17:00 |
-| Pátek | Praha | [Najáda](https://melee.gg/Hub/Organization/8336) | 17:30 |
+| Den | Město | Herna | Adresa | Začátek |
+|---|---|---|---|---|
+| Pondělí | Ostrava | [Black Lotus](https://melee.gg/Hub/Organization/6019) | Puchmajerova 208/1 | 16:00 |
+| Pondělí | Praha | [Černý rytíř](https://melee.gg/Hub/Organization/8461) | Za Poříčskou bránou 21 | 17:30 |
+| <del>Pondělí</del> | <del>Praha</del> | <del>[Professor Onyx](https://melee.gg/Hub/Organization/13393)</del> | <del>Arbesovo nám. 781/14</del> | <del>17:30</del> |
+| Pondělí | Pardubice | [Tolarie](https://melee.gg/Hub/Organization/9352) | Zámecká 23 | 18:30 |
+| Úterý | Slaný | [Dragon World Store](https://melee.gg/Hub/Organization/8965) | Třebízského 163/5 | 17:00 |
+| Úterý | Brno | [Xzone](https://melee.gg/Hub/Organization/8419) | Palackého třída 177/50 | 18:00 |
+| Úterý | Brno | [Najáda](https://melee.gg/Hub/Organization/8336) | Biskupská 283/1 | 18:00 |
+| Středa | Pardubice | [Wombat Games](https://melee.gg/Hub/Organization/7973) | Sladkovského 505 | 17:30 |
+| Středa | Hradec Králové | [Untap](https://melee.gg/Hub/Organization/8547) | Pospíšilova 281/18 | 17:30 |
+| Středa | České Budějovice | [DEKL](https://melee.gg/Hub/Organization/9354) | Jeronýmova 1796/35 | 17:30 |
+| Středa | Praha | [Xzone HUB, OC Lužiny](https://melee.gg/Hub/Organization/8419) | Archeologická 2256/1 | 18:00 |
+| Čtvrtek | Kolín | [KODEK](https://melee.gg/Hub/Organization/17269) | Havelcova 123 | 17:00 |
+| Čtvrtek | Mladá Boleslav | [TeCeGe](https://melee.gg/Hub/Organization/13121) | Čechova 357/8 | 17:00 |
+| Čtvrtek | Brno | [Hero Store](https://melee.gg/Hub/Organization/11389) | Křenová 131/35 | 18:00 |
+| Pátek | Praha | [Najáda](https://melee.gg/Hub/Organization/8336) | Ondříčkova 2166/14 | 17:30 |
 
 ## Podle měst
 
 ### Praha
-- [Najáda](https://melee.gg/Hub/Organization/8336) – pátek 17:30
-- [Xzone HUB, OC Lužiny](https://melee.gg/Hub/Organization/8419) – středa 18:00
-- <del>[Professor Onyx](https://melee.gg/Hub/Organization/13393) – pondělí 17:30</del>
 - [Černý rytíř](https://melee.gg/Hub/Organization/8461) – pondělí 17:30
+- <del>[Professor Onyx](https://melee.gg/Hub/Organization/13393) – pondělí 17:30</del>
+- [Xzone HUB, OC Lužiny](https://melee.gg/Hub/Organization/8419) – středa 18:00
+- [Najáda](https://melee.gg/Hub/Organization/8336) – pátek 17:30
 
 ### Brno
 - [Xzone](https://melee.gg/Hub/Organization/8419) – úterý 18:00
@@ -46,7 +46,7 @@ Přehled heren v ČR, kde se pravidelně hrává Star Wars: Unlimited (weekly pl
 
 ### Pardubice
 - [Tolarie](https://melee.gg/Hub/Organization/9352) – pondělí 18:30
-- [Wombat Games](https://melee.gg/Hub/Organization/7973) – každý druhý pátek 17:00
+- [Wombat Games](https://melee.gg/Hub/Organization/7973) – středa 17:30
 
 ### Slaný
 - [Dragon World Store](https://melee.gg/Hub/Organization/8965) – úterý 17:00
