@@ -56,7 +56,8 @@ U Carbonite se pak snížila pravděpodobnost, že bude obsahovat showcase kartu
 
 ### Cardmarket
 
-Pokud si hráč chtěl dokoupit specifickou chybějící kartu, pak v Evropě se stal obecně nejpoužívanější službou k nákupu [Cardmarket](https://www.cardmarket.com/en/StarWarsUnlimited). Jen je potřeba počítat, že ne všechny karty je možné sehnat u českých prodejců (lze filtrovat podle mnoha parametrů), takže nákup některých karet se může notně prodražit placením dražšího poštovného ze zahraniční. Obecně se ale doporučuje si nechat dražší zásilky posílat trackovanou službou.
+Pokud si hráč chce dokoupit specifickou chybějící kartu, pak se v Evropě obecně nejpoužívanější službou stal [Cardmarket](https://www.cardmarket.com/en/StarWarsUnlimited). Jen je potřeba počítat, že ne všechny karty je možné sehnat u českých prodejců (lze filtrovat podle mnoha parametrů), takže nákup některých karet se může notně prodražit placením dražšího poštovného ze zahraniční. Obecně se ale doporučuje si nechat dražší zásilky posílat trackovanou službou.
+Některé české obchody (např. [blacklotus.cz](https://www.blacklotus.cz/star-wars--unlimited-kusove-karty/)) nabízejí k prodeji kusovky, ale jejich nabídka není tak rozsáhlá jako u Cardmarketu.
 
 ### Eventy
 
