@@ -15,8 +15,8 @@ Nejčastěji se hraje ve formě duelu dvou hráčů, kdy každý má jednoho lea
 ## Historie edic a rotace
 
 Hra vyšla v březnu roku 2024 první edicí Spark of Rebellion (SOR), po které následovala v červenci téhož roku edice Shadows of the Galaxy (SHD) a v listopadu Twilight of the Republic (TWI). Ty tvoří takzvaný první rok.
-V březnu 2025 pak vyšla edice Jump To Lightspeed (JTL), v létě Legends of the Force (LOF) a na podzim Secrets of Power (SEC), což jsou edice, jež mají na kartách uvedené písmeno A a tím se vyznačují do jaké rotace patří.
-V březnu 2026 vyšla edice Lawless Time (LAW), jejíž karty už mají na sobě označení písmenem B. Do této rotace patří i v červenci vydaná edice Ashes of the Empire (ASH).
+V březnu 2025 pak vyšla edice Jump To Lightspeed (JTL), v létě Legends of the Force (LOF) a na podzim Secrets of Power (SEC), což jsou edice, jež mají na kartách uvedené písmeno A a tím se vyznačují do jaké rotace patří. Do této rotace přísluší i karty z naučné sady Intro: Battle Hoth (IBH).
+V březnu 2026 vyšla edice Lawless Time (LAW), jejíž karty už mají na sobě označení písmenem B. Tu v červenci doplnila edice Ashes of the Empire (ASH) a v říjnu edice Homeworlds (HMW). V listopadu nás pak čeká i speciální miniedice Icons (IC27), která taktéž bude spadat pod rotaci B.
 
 ![Přehled edic SWU a jejich rozdělení do rotací A a B](images/rotace.jpg)
 
