@@ -70,6 +70,8 @@ Vždy v prvních pár dnech před vydáním nové edice probíhají **prerelease
 
 V těchto místech (prodejny/herny), které hru oficiálně podporují by se měly týdně pořádat pravidelné sešlosti. Na nich hráči hrají především to, co si domluví či pořadatel oznámí, ale v rámci vstupu mají obdržet speciální **weekly pack**, který obsahuje vždy tři weekly varianty standardních karet ze setu. Těch je celkem dvacet v klasické a stejných dvacet ve foil variantě. Všechny karty jsou stejně platné, jako ty z normálního setu.
 
+Přehled heren v Česku, kde se weekly pravidelně hrává, najdete na stránce [Kde hrát SWU v Česku]({{ '/herny/' | relative_url }}).
+
 #### Showdown
 
 V rámci setu má obchod uspořádat showdown turnaj pro své hráče i hosty, kteří obdrží jak promo kartu, tak se utkají o hodnotnější ceny a speciální variantu karty ze setu, kterou obdrží podle svého umístění. Varianty jsou TOP 8, TOP 4, Finalist a Champion.
