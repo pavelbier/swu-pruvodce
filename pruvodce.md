@@ -65,7 +65,7 @@ Tím se pomalu dostáváme ke komunitní stránce.
 
 ### Prerelease
 
-Vždy v prvních pár dnech před vydáním nové edice probíhají **prerelease** události / turnaje, které pořádají obchody a herny, které hru podporují a kde je možné zakoupit **prerelease box**. Ten obsahuje jak HS verzi obou leaderů ze spotlight decku, tak šest boosterů z nové edice. V rámci pořádaného prerelease turnaje, si pak hráči na místě tvoří balíček a hrají turnaj dle pravidel pro formát sealed. Je to jedinečná možnost se dostat ke kartám dříve než je oficiální den vydání.
+Vždy v prvních pár dnech před vydáním nové edice probíhají **prerelease** události / turnaje, které pořádají [obchody a herny]({{ '/herny/' | relative_url }}), které hru podporují a kde je možné zakoupit **prerelease box**. Ten obsahuje jak HS verzi obou leaderů ze spotlight decku, tak šest boosterů z nové edice. V rámci pořádaného prerelease turnaje, si pak hráči na místě tvoří balíček a hrají turnaj dle pravidel pro formát sealed. Je to jedinečná možnost se dostat ke kartám dříve než je oficiální den vydání.
 
 #### Weekly
 
