@@ -135,3 +135,4 @@ Pořadatelé turnajů pak často jejich průběh streamují a komentují a tento
 
 - [https://hri.gg/](https://hri.gg/)
 - [https://www.swuniversity.net/puzzles](https://www.swuniversity.net/puzzles)
+- [https://petranaki.net](https://petranaki.net)
