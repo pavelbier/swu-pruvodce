@@ -136,3 +136,7 @@ Pořadatelé turnajů pak často jejich průběh streamují a komentují a tento
 - [https://hri.gg/](https://hri.gg/)
 - [https://www.swuniversity.net/puzzles](https://www.swuniversity.net/puzzles)
 - [https://petranaki.net](https://petranaki.net)
+- [https://swuforge.com/](https://swuforge.com/)
+- [https://swurank.cz/](https://swurank.cz/)
+- [https://discord.com/invite/a947uHueDP](Discord Project Holocron)
+- [https://games-hub.gg/star-wars-unlimited-cz-sk-liga-2026-2027/](https://games-hub.gg/star-wars-unlimited-cz-sk-liga-2026-2027/)
