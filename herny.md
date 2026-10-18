@@ -18,11 +18,11 @@ Přehled heren v ČR, kde se pravidelně hrává Star Wars: Unlimited (weekly pl
 | Pondělí | Pardubice | [Tolarie](https://melee.gg/Hub/Organization/9352) | [Zámecká 23](https://mapy.cz/zakladni?q=Zámecká+23,+530+02+Pardubice) | 18:30 |
 | Úterý | Slaný | [Dragon World Store](https://melee.gg/Hub/Organization/8965) | [Třebízského 163/5](https://mapy.cz/zakladni?q=Třebízského+163%2F5,+Slaný) | 17:00 |
 | Úterý | Brno | [Xzone](https://melee.gg/Hub/Organization/8419) | [Palackého třída 177/50](https://mapy.cz/zakladni?q=Palackého+třída+177%2F50,+612+00+Brno) | 18:00 |
-| Úterý | Brno | [Najáda](https://melee.gg/Hub/Organization/8336) | [Biskupská 283/1](https://mapy.cz/zakladni?q=Biskupská+283%2F1,+602+00+Brno) | 18:00 |
 | Středa | Pardubice | [Wombat Games](https://melee.gg/Hub/Organization/7973) | [Sladkovského 505](https://mapy.cz/zakladni?q=Sladkovského+505,+530+02+Pardubice) | 17:30 |
 | Středa | Hradec Králové | [Untap](https://melee.gg/Hub/Organization/8547) | [Pospíšilova 281/18](https://mapy.cz/zakladni?q=Pospíšilova+281%2F18,+500+03+Hradec+Králové) | 17:30 |
 | Středa | České Budějovice | [DEKL](https://melee.gg/Hub/Organization/9354) | [Jeronýmova 1796/35](https://mapy.cz/zakladni?q=Jeronýmova+1796%2F35,+České+Budějovice) | 17:30 |
 | Středa | Praha | [Xzone HUB, OC Lužiny](https://melee.gg/Hub/Organization/8419) | [Archeologická 2256/1](https://mapy.cz/zakladni?q=Archeologická+2256%2F1,+155+00+Praha) | 18:00 |
+| Středa | Brno | [Najáda](https://melee.gg/Hub/Organization/8336) | [Biskupská 283/1](https://mapy.cz/zakladni?q=Biskupská+283%2F1,+602+00+Brno) | 18:00 |
 | Čtvrtek | Kolín | [KODEK](https://melee.gg/Hub/Organization/17269) | [Havelcova 123](https://mapy.cz/zakladni?q=Havelcova+123,+280+02+Kolín) | 17:00 |
 | Čtvrtek | Mladá Boleslav | [TeCeGe](https://melee.gg/Hub/Organization/13121) | [Čechova 357/8](https://mapy.cz/zakladni?q=Čechova+357%2F8,+293+01+Mladá+Boleslav) | 17:00 |
 | Čtvrtek | Brno | [Hero Store](https://melee.gg/Hub/Organization/11389) | [Křenová 131/35](https://mapy.cz/zakladni?q=Křenová+131%2F35,+602+00+Brno) | 18:00 |
@@ -37,8 +37,8 @@ Přehled heren v ČR, kde se pravidelně hrává Star Wars: Unlimited (weekly pl
 - [Najáda](https://melee.gg/Hub/Organization/8336) – pátek 17:30
 
 ### Brno
-- [Xzone](https://melee.gg/Hub/Organization/8419) – úterý 18:00
-- [Najáda](https://melee.gg/Hub/Organization/8336) – úterý 18:00
+- [Xzone](https://melee.gg/Hub/Organization/8419) – pondělí/úterý 18:00
+- [Najáda](https://melee.gg/Hub/Organization/8336) – středa 18:00
 - [Hero Store](https://melee.gg/Hub/Organization/11389) – čtvrtek 18:00
 
 ### Ostrava
