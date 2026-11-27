@@ -18,7 +18,7 @@ Hra vyšla v březnu roku 2024 první edicí Spark of Rebellion (SOR), po které
 
 V březnu 2025 pak další rok začala edice Jump To Lightspeed (JTL), v létě Legends of the Force (LOF) a na podzim Secrets of Power (SEC), což byly edice, které mají na kartách uvedené písmeno A a tím se vyznačují do jaké rotace patří. Do ní přísluší i karty z naučné sady Intro: Battle Hoth (IBH), která vyšla na podzim.
 
-Třetí rok v březnu 2026 odstartovala edice Lawless Time (LAW), jejíž karty už mají na sobě označení písmenem B. Tu v červenci doplnila edice Ashes of the Empire (ASH) a v říjnu edice Homeworlds (HMW). V listopadu ji pak doplnila nová speciální miniedice Icons (IC27).
+Třetí rok v březnu 2026 odstartovala edice Lawless Time (LAW), jejíž karty už mají na sobě označení písmenem B. Tu v červenci doplnila edice Ashes of the Empire (ASH) a v říjnu edice Homeworlds (HMW). V listopadu ji pak uzavřela nová speciální miniedice Icons (IC27).
 
 ![Přehled edic SWU a jejich rozdělení do rotací A a B](images/rotace_11_26.jpg)
 
