@@ -25,6 +25,7 @@ Třetí rok v březnu 2026 odstartovala edice Lawless Time (LAW), jejíž karty 
 ## Formáty hraní
 
 Nejčastější styl hraní je duel dvou hráčů, který se dá rozdělit na dvou specifických formáty a to **Constructed** a **Limited**. V Constructed hrají hráči se svými připravenými balíčky, kdežto v Limited si balíček teprve na akci vytvářejí z karet, které na místě rozbalí.
+
 Co se týče Constructed, tak zde obecně platí, že se hraje s balíčkem o padesáti kartách, který může využívat maximálně tři stejné karty. Za hlavní a nejhranější směr se dá považovat formát **Premier**, ve kterém se smí používat jen karty z posledních dvou aktuálních rotací. V této době je tak možné používat karty z rotace A a B. První tři edice (ještě bez označení) nejsou v tomto formátu povolené. 
 K tomu, aby šlo starší karty i nadále používat, je určen hlavně, ale nejen, formát **Eternal**, kde je možné hrát karty všech edicí dohromady.
 Protože se ne vždy vydaří karty dobře vybalancovat oznamuje občas vydavatel suspendaci některých karet pro určité formáty a je tedy vhodné si zkontrolovat, že v balíčku nepoužíváte nepovolené karty. Aktuálně jsou v Premier suspendovány 4 herní karty (Tři z ASH: Chimaera, Neel, Koska Reeves a ze SEC Aggressive Negotiations). V Eternalu byla suspendována základna Data Vault z JTL.
