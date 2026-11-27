@@ -148,6 +148,5 @@ Pořadatelé turnajů pak často jejich průběh streamují a komentují a tento
 - [https://games-hub.gg/star-wars-unlimited-cz-sk-liga-2026-2027/](https://games-hub.gg/star-wars-unlimited-cz-sk-liga-2026-2027/)
 - [https://petranaki.net](https://petranaki.net)
 
+------------------------------------------
 *Aktualizováno v listopadu 2026*
-
-A
