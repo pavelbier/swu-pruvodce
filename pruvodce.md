@@ -60,7 +60,7 @@ Carbonite boostery mají navíc menší šanci, že obsahují číslovanou verzi
 Od edice LAW došlo k výraznějším změnám. Přestaly se úplně dělat foil verze karet, díky čemuž se zavedla garance minimálně jedné HS verze karty a garance jedné HS foil karty v každém balíčku. Navíc se v každém osmnáctém balíčku mohla objevit i nefoilová prestige karta.
 U Carbonite se pak snížila pravděpodobnost, že bude obsahovat showcase kartu (téměř třikrát), ale zvedl se počet HS foil a HS karet.
 
-Na podzim 2027 vyšla menší edice Icons, která nebyla již nějak tematicky vedená a nebyla použitelná pro limited formát. Její booster obsahuje jen devět karet a každý booster nemusí obsahovat leader kartu. Počty případných U,R,L karet zůstal zachován, jen booster obsahuje menší počet C karet.
+Na podzim 2026 vyšla menší edice Icons, která nebyla již nějak tematicky vedená a nebyla použitelná pro limited formát. Její booster obsahuje jen devět karet a každý booster nemusí obsahovat leader kartu. Počty případných U,R,L karet zůstal zachován, jen booster obsahuje menší počet C karet.
 
 ### Cardmarket
 
